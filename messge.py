@@ -1,0 +1,2 @@
+MESSAGE = (b'\xFE\x01\x00\x00\x00\x10\x29\xC9')
+print(MESSAGE)
